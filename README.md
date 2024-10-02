@@ -1,6 +1,6 @@
 # Hi there! I'm Helene Flått 👋
 
-I'm a first-year front-end developer student at [Noroff School of Technology and Digital Media](https://www.noroff.no).
+I'm a second-year front-end developer student at [Noroff School of Technology and Digital Media](https://www.noroff.no).
 
 ##  Skills
 
